@@ -3,7 +3,7 @@ A Prototype for Kevin Bacon's Six Degree Idea
 
 The screenshot.png files show two of the pages from the application.
 
-This web application gives 6 Degrees users a completely new experience. It integrates the concepts of social networking and local impact, both of were essential to 6 Degrees requirements. We developed new and easy to use webpages that allow the user to do several things. Users can start their own campaigns, create their own challenges, and have several opportunities to contribute to local nonprofits through sharing a post on social media, donating money, and volunteering at an event.
+This web application gives 6 Degrees users a completely new experience. It integrates the concepts of social networking and local impact, both of were essential to 6 Degrees requirements. This applications contains new and easy to use webpages that allow the user to do several things. Users can start their own campaigns, create their own challenges, and have several opportunities to contribute to local nonprofits through sharing a post on social media, donating money, and volunteering at an event.
 
 Goal: To create a web application that connects, informs, and motivates 6 Degrees users so that they become more involved in local nonprofits.
 
